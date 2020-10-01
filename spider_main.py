@@ -40,7 +40,7 @@ class Spider_Main(object):
 
 if __name__ == '__main__':
     #设置爬虫入口
-    root_url = 'http://baike.baidu.com/view/21087.htm'
+    root_url = 'http://baike.baidu.com/view/21087.html'
     #开始时间
     print('开始计时..............')
     start_time = datetime.datetime.now()
